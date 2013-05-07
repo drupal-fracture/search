@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains \Drupal\search\Plugin\block\block\SearchBlock.
+ * Contains \Drupal\search\Plugin\Block\SearchBlock.
  */
 
-namespace Drupal\search\Plugin\block\block;
+namespace Drupal\search\Plugin\Block;
 
 use Drupal\block\BlockBase;
 use Drupal\Component\Annotation\Plugin;
